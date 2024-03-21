@@ -27,5 +27,5 @@ void dividetwo(int num1, int num2){
 }
 
 void main(){
-  divide two(10, 20);
+  dividetwo(10, 20);
 }
