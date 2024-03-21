@@ -3,7 +3,7 @@ void addtwo(int num1, int num2){
    print("The sum is $sum");
 
 void main(){
-  add(10, 20);
+  addtwo(10, 20);
 
 void subtractTwo(int num1, int num2){
   int difference = num1 - num2;
@@ -11,7 +11,7 @@ void subtractTwo(int num1, int num2){
 }
 
 void main(){
-  add(1200, 20);
+ subtracttwo(1200, 20);
 
 void multiplytwo(int num1, int num2){
   int multiply = num1 * num2;
@@ -19,5 +19,13 @@ void multiplytwo(int num1, int num2){
 }
 
 void main(){
-  add(10, 20);
+  multiplytwo(10, 20);
+
+void dividetwo(int num1, int num2){
+  int multiply = num1 / num2;
+   print("The quotient is $sum");
+}
+
+void main(){
+  divide two(10, 20);
 }
